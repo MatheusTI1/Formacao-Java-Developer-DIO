@@ -1,0 +1,97 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Matematica",
+            "request": "launch",
+            "mainClass": "edu.matheus.Terminal_E_Argumentos.Matematica",
+            "projectName": "Primeiro_Projeto_Java_c1e2ffe4"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "edu.matheus.Terminal_E_Argumentos.AboutMe",
+            "projectName": "Primeiro_Projeto_Java_c1e2ffe4"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "edu.matheus.Anatomia_Classes.App",
+            "projectName": "Primeiro_Projeto_Java_c1e2ffe4"
+        },
+        {
+            "type": "java",
+            "name": "MinhaClasse",
+            "request": "launch",
+            "mainClass": "edu.matheus.Anatomia_Classes.MinhaClasse",
+            "projectName": "Primeiro_Projeto_Java_c1e2ffe4"
+        },
+        {
+            "type": "java",
+            "name": "NomeCompleto",
+            "request": "launch",
+            "mainClass": "edu.matheus.Anatomia_Classes.NomeCompleto",
+            "projectName": "Primeiro_Projeto_Java_c1e2ffe4"
+        },
+        {
+            "type": "java",
+            "name": "Comentarios",
+            "request": "launch",
+            "mainClass": "edu.matheus.JavaDoc.Comentarios",
+            "projectName": "Primeiro_Projeto_Java_c1e2ffe4"
+        },
+        {
+            "type": "java",
+            "name": "ControleTV",
+            "request": "launch",
+            "mainClass": "edu.matheus.Métodos.ControleTV",
+            "projectName": "Primeiro_Projeto_Java_c1e2ffe4"
+        },
+        {
+            "type": "java",
+            "name": "OperadoresLogicos",
+            "request": "launch",
+            "mainClass": "edu.matheus.Operadores_Lógicos.OperadoresLogicos",
+            "projectName": "Primeiro_Projeto_Java_c1e2ffe4"
+        },
+        {
+            "type": "java",
+            "name": "Argumentos",
+            "request": "launch",
+            "mainClass": "edu.matheus.Terminal_E_Argumentos.Argumentos",
+            "projectName": "Primeiro_Projeto_Java_c1e2ffe4",
+            "args": [
+                "GLEYSON",
+                "SAMPAIO",
+                "28",
+                "1.58"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "Terminal",
+            "request": "launch",
+            "mainClass": "edu.matheus.Terminal_E_Argumentos.Terminal",
+            "projectName": "Primeiro_Projeto_Java_c1e2ffe4"
+        },
+        {
+            "type": "java",
+            "name": "TiposVariaveis",
+            "request": "launch",
+            "mainClass": "edu.matheus.Tipos_Variáveis.TiposVariaveis",
+            "projectName": "Primeiro_Projeto_Java_c1e2ffe4"
+        }
+    ]
+}

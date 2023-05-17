@@ -25,5 +25,5 @@ public class ControleTV {
 
         tvSmart.mudarCanal(10);
         System.out.println("O canal atual é: " + tvSmart.canal);
-    }
+    }   
 }

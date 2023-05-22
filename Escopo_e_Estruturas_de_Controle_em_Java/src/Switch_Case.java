@@ -1,6 +1,6 @@
 public class Switch_Case {
     public static void main(String[] args) {
-        String sigla = "A";
+        String sigla = "G";
         switch (sigla) {
             case "P":{
                 System.out.println("Pequeno");
@@ -19,6 +19,7 @@ public class Switch_Case {
                 break;
             }
             default:
+                System.out.println("Indefinido");
                 break;
         }
     }

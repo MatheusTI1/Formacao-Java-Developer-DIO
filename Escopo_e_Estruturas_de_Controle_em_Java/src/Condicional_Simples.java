@@ -6,6 +6,6 @@ public class Condicional_Simples {
         if (valorSolicitado < saldo)
         saldo = saldo - valorSolicitado;
 
-        System.out.println(saldo);
+        System.out.println(saldo); //fora do escopo do IF
     }
 }

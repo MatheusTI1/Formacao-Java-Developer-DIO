@@ -1,3 +1,3 @@
-# Dio-Java-Basico
-Repositorio para armazenar todo o conteudo do curso de java basico
-Primeira alteração *Teste*
+# DIO (Digital Innovation One)
+# Formação Java Developer
+Repositorio para armazenar todo o conteúdo do curso: Formação Java Developer

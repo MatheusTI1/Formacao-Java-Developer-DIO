@@ -1,6 +1,9 @@
 package lanchonete.atendimento.cozinha;
 
-import lanchonete.atendimento.Cozinheiro;
+import lanchonete.area.cliente.Cliente;
+import lanchonete.atendimento.Atendente;
+import lanchonete.atendimento.cozinha.Almoxarife;
+import lanchonete.atendimento.cozinha.Cozinheiro;
 
 public class Estabelecimento {
 	public static void main(String[] args) {

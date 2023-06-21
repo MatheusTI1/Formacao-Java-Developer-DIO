@@ -1,5 +1,5 @@
 public class Carro extends Veiculo{
-
+// extends = herança
 
 
     // private String chassi;
@@ -10,7 +10,7 @@ public class Carro extends Veiculo{
     //     this.chassi = chassi;
     // }
 
-
+    //ambos tem o método ligar mas fazem a mesma função de forma diferente ou seja Polimorfismo
     public void ligar(){
         // Encapsulamento
         conferirCambio();

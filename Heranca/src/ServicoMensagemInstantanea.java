@@ -1,4 +1,4 @@
-public class MSN {
+public class ServicoMensagemInstantanea {
     //Com encapsulamento:
     
     public void enviarMensagem() {

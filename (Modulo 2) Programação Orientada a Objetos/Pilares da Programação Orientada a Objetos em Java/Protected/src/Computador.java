@@ -1,3 +1,8 @@
+import Apps.Facebook;
+import Apps.Msn;
+import Apps.ServicoMensagemInstantanea;
+import Apps.Telegram;
+
 public class Computador {
 	public static void main(String[] args) {
 		

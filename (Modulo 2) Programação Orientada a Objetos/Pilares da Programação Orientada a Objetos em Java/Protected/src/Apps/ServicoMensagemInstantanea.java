@@ -1,3 +1,4 @@
+package Apps;
 public abstract class ServicoMensagemInstantanea {
     // Abstração para você ser você precisa fazer
     // exemplo: para você ser um "ServicoMensagemInstantanea" você deve enviar e receber mensagens.

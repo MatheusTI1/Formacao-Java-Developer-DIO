@@ -1,3 +1,4 @@
+package Apps;
 public class Telegram extends ServicoMensagemInstantanea {
     public void enviarMensagem() {
         validarConectadoInternet();

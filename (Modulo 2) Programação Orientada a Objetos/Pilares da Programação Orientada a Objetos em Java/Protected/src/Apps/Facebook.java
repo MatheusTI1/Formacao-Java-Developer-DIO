@@ -1,3 +1,4 @@
+package Apps;
 public class Facebook extends ServicoMensagemInstantanea {
     public void enviarMensagem() {
         validarConectadoInternet();

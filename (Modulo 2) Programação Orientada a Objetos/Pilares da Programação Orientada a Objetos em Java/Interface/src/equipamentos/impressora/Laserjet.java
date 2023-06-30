@@ -1,4 +1,6 @@
 package equipamentos.impressora;
-public class Laserjet extends Impressora {
-    
+public class Laserjet implements Impressora {
+    public void imprimir() {
+        System.out.println("IMPRIMINDO VIA LASERJET");
+    }
 }

@@ -1,4 +1,4 @@
 package equipamentos.impressora;
-public class Impressora {
-    
+public interface Impressora {
+    public void imprimir();
 }
